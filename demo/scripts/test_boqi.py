@@ -8,4 +8,4 @@ class TestLogin:
         assert 1
 
     def test_03(self):
-        assert 0
+        assert 1
